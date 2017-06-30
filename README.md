@@ -1,5 +1,5 @@
-# Express boilerplate :steam_locomotive::spaghetti::+1:
-### By _Alexander Jacks_
+# Express Boilerplate :steam_locomotive::spaghetti::+1:
+## By _Alexander Jacks_
 
 ### Description
 A simple Express setup for building node.js microservices.
